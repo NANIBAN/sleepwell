@@ -38,7 +38,7 @@ const Gender = ({ setActiveComponent, handleInput }: IGender) => {
         <section className="flex flex-col items-center mb-7">
           <Image
             priority
-            src="/images/Gender.png"
+            src="images/Gender.png"
             alt="welcome"
             width="400"
             height="400"

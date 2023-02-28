@@ -34,7 +34,7 @@ const NotFound: NextPage = (): JSX.Element => {
         <div className="flex flex-col justify-center items-center">
           <Image
             priority
-            src="/images/Error.png"
+            src="images/Error.png"
             alt="error"
             width="400"
             height="400"

@@ -43,7 +43,7 @@ const Register: NextPage = (): JSX.Element => {
         <div className="relative flex justify-center">
           <Image
             priority
-            src="/images/Signup.png"
+            src="images/Signup.png"
             alt="signup"
             width="400"
             height="400"
@@ -57,7 +57,7 @@ const Register: NextPage = (): JSX.Element => {
           <Input
             name="email"
             label="Email address"
-            placeholder="johndoe@gmail.com"
+            placeholder="sample@gmail.com"
             onChange={handleChange}
           ></Input>
           <Input

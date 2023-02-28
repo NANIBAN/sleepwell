@@ -21,7 +21,7 @@ const HistoryProfileCard = ({
     bg-swell-light text-white "
     >
       <Image
-        src={avatar || "/images/AvatarLoader.png"}
+        src={avatar || "images/AvatarLoader.png"}
         alt="avatar"
         priority
         width={200}

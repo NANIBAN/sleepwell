@@ -23,7 +23,7 @@ const Intro = ({
         <section className="flex flex-col items-center mb-7">
           <Image
             priority
-            src="/images/Thankyou.png"
+            src="images/Thankyou.png"
             alt="welcome"
             width="400"
             height="400"

@@ -52,7 +52,7 @@ const Recommendation = ({
             <section className="flex flex-col items-center mb-7">
               <Image
                 priority
-                src="/images/recommendation.png"
+                src="images/recommendation.png"
                 alt="recommendation"
                 width={imageWidth}
                 height={imageHeight}

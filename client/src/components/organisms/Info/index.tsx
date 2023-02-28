@@ -48,7 +48,7 @@ const Info = ({ result }: IInfoPage) => {
         <section className="flex flex-col items-center mb-7">
           <Image
             priority
-            src="/images/Welcome.png"
+            src="images/Welcome.png"
             alt="welcome"
             width="400"
             height="400"
@@ -66,7 +66,7 @@ const Info = ({ result }: IInfoPage) => {
               }}
               type="text"
               className="flex w-full text-center font-medium rounded border-swell-30 border-2 text-lg bg-white px-4 py-3"
-              placeholder="John Doe"
+              placeholder=""
               id="full_name"
             />
           </div>
